@@ -1,0 +1,2 @@
+# cloudquito
+Cloud abstraction library
